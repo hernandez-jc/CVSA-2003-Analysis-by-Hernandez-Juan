@@ -1,5 +1,13 @@
 # CVSA-2003-Analysis-by-Hernandez-Juan
-Multimodal Fusion CVSA: Voice Stress Analysis + Nonverbal Cues (Lip Bites, Blinks, Tremors.  dataset combines 6 modalities: ✅ Voice: Tremor suppression (CVSA core)   ✅ Verbal: Spanish "eh" fillers ✅ Visual: Blinks/min + Lip bites ✅ Composite: Correlation score = MULTIMODAL FUSION 
+Multimodal Fusion CVSA: Voice Stress Analysis + Nonverbal Cues (Lip Bites, Blinks, Tremors.  dataset combines 6 modalities: 
+
+✅ Voice: Tremor suppression (CVSA core)   
+
+✅ Verbal: Spanish "eh" fillers 
+
+✅ Visual: Blinks/min + Lip bites 
+
+✅ Composite: Correlation score = MULTIMODAL FUSION 
 
 # 🔬 Multimodal CVSA 2003 Analysis
 
@@ -17,7 +25,5 @@ Multimodal Fusion CVSA: Voice Stress Analysis + Nonverbal Cues (Lip Bites, Blink
 **Stress SUPPRESSES 8-12Hz vocal microtremors** + elevates nonverbal stress markers
 
 ## Run Locally
-```bash
-pip install pandas matplotlib seaborn numpy
-python generate_cvsa_data.py
+```
 
